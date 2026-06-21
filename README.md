@@ -6,6 +6,7 @@ This is an integrated repository for android's API partially integrated.
 
 ---
 
-[Contact Me](https://github.com/TNET-feng/ContactMe)
+<p align="center"><a href="https://github.com/TNET-feng/ContactMe">Contact Me</a>(README.md)</p>
+
 
 <p align="center">Thank you for downloading and using!😘😘</p>

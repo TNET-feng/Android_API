@@ -2,7 +2,7 @@
 
 This is an integrated repository for Android's API partially integrated.
 
-**Note: The file may be official from Google, or from Tsinghua University[^1] in China**
+**Note: The file may be official from Google, or from Tsinghua University[^1]**
 
 [^1]:One of the top universities in China:[Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm)
 

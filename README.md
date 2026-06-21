@@ -1,4 +1,4 @@
-# About The Repository
+# <p align="center">About The Repository</p>
 
 This is an integrated repository for android's API partially integrated.
 

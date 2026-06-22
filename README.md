@@ -15,4 +15,4 @@ This is an integrated repository for Android's API partially integrated.
 
 ---
 
-<p align="center"><a href="https://github.com/TNET-feng>Contact Me</a>(README.md)</p>
+<a href="https://github.com/TNET-feng>Contact Me</a>(README.md)

@@ -14,5 +14,3 @@ This is an integrated repository for Android's API partially integrated.
 
 
 ---
-
-<div style="text-align: center">[点击这里](https://example.com)</div>

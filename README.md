@@ -8,7 +8,7 @@ This is an integrated repository for Android's API partially integrated.
 
 ---
 
-<p align="center"><a href="https://github.com/TNET-feng>Contact Me</a>(README.md)</p>
+
 
 <p align="center">Thank you for downloading and using!😘😘😘😘</p>
 
